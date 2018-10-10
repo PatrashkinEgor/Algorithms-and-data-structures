@@ -67,4 +67,9 @@ public class Deque {
     public int size(){
         return items;
     }
+
+    @Override
+    public String toString() {
+        return getClass().getName() + " Number of elements ="  + items;
+    }
 }

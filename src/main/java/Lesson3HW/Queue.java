@@ -44,4 +44,9 @@ class Queue{
         return items;
     }
 
+    @Override
+    public String toString() {
+        return getClass().getName() + " Number of elements ="  + items;
+    }
+
 }

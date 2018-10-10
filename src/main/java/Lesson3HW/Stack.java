@@ -30,4 +30,9 @@ class Stack{
     public boolean isFull(){
         return (this.top == this.maxSize-1);
     }
+
+    @Override
+    public String toString() {
+        return getClass().getName() + " Number of elements ="  + (top+1) ;
+    }
 }

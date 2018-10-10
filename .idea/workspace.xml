@@ -18,11 +18,14 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="LessonThreeHomeWork.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LessonThreeHomeWork.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/LessonThreeHomeWork.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            <state relative-caret-position="595">
+              <caret line="107" column="31" lean-forward="true" selection-start-line="107" selection-start-column="31" selection-end-line="107" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -30,8 +33,8 @@
       <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="396">
+              <caret line="33" selection-start-line="33" selection-end-line="36" selection-end-column="5" />
               <folding>
                 <element signature="e#263#264#0" expanded="true" />
                 <element signature="e#305#306#0" expanded="true" />
@@ -43,16 +46,18 @@
                 <element signature="e#510#511#0" expanded="true" />
                 <element signature="e#540#541#0" expanded="true" />
                 <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#637#638#0" expanded="true" />
+                <element signature="e#714#715#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+            <state relative-caret-position="379">
+              <caret line="46" selection-start-line="46" selection-end-line="49" selection-end-column="5" />
               <folding>
                 <element signature="e#608#609#0" expanded="true" />
                 <element signature="e#643#644#0" expanded="true" />
@@ -62,6 +67,8 @@
                 <element signature="e#775#776#0" expanded="true" />
                 <element signature="e#799#800#0" expanded="true" />
                 <element signature="e#827#828#0" expanded="true" />
+                <element signature="e#881#882#0" expanded="true" />
+                <element signature="e#962#963#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,8 +77,8 @@
       <file leaf-file-name="Deque.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/Deque.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="532">
+              <caret line="73" column="5" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
               <folding>
                 <element signature="e#975#976#0" expanded="true" />
                 <element signature="e#1009#1010#0" expanded="true" />
@@ -83,6 +90,8 @@
                 <element signature="e#1210#1211#0" expanded="true" />
                 <element signature="e#1234#1235#0" expanded="true" />
                 <element signature="e#1262#1263#0" expanded="true" />
+                <element signature="e#1311#1312#0" expanded="true" />
+                <element signature="e#1389#1390#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -106,8 +115,9 @@
         <option value="$PROJECT_DIR$/src/main/java/Lesson2HW/LessonTwoHomeWork.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson2HW/NewArr.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson3HW/Stack.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Lesson3HW/Deque.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson3HW/Queue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson3HW/Deque.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson3HW/LessonThreeHomeWork.java" />
       </list>
     </option>
   </component>
@@ -182,6 +192,17 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration name="LessonThreeHomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson3HW.LessonThreeHomeWork" />
+      <module name="Algorithms-and-data-structures2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson3HW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -223,6 +244,11 @@
       <properties />
       <listeners />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LessonThreeHomeWork" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -243,18 +269,18 @@
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32943678" />
+      <window_info anchor="bottom" id="Messages" weight="0.32943678" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32943678" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -312,17 +338,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/LessonThreeHomeWork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="396">
+          <caret line="33" selection-start-line="33" selection-end-line="36" selection-end-column="5" />
           <folding>
             <element signature="e#263#264#0" expanded="true" />
             <element signature="e#305#306#0" expanded="true" />
@@ -334,14 +353,16 @@
             <element signature="e#510#511#0" expanded="true" />
             <element signature="e#540#541#0" expanded="true" />
             <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/Deque.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="532">
+          <caret line="73" column="5" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
           <folding>
             <element signature="e#975#976#0" expanded="true" />
             <element signature="e#1009#1010#0" expanded="true" />
@@ -353,14 +374,16 @@
             <element signature="e#1210#1211#0" expanded="true" />
             <element signature="e#1234#1235#0" expanded="true" />
             <element signature="e#1262#1263#0" expanded="true" />
+            <element signature="e#1311#1312#0" expanded="true" />
+            <element signature="e#1389#1390#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        <state relative-caret-position="379">
+          <caret line="46" selection-start-line="46" selection-end-line="49" selection-end-column="5" />
           <folding>
             <element signature="e#608#609#0" expanded="true" />
             <element signature="e#643#644#0" expanded="true" />
@@ -370,6 +393,18 @@
             <element signature="e#775#776#0" expanded="true" />
             <element signature="e#799#800#0" expanded="true" />
             <element signature="e#827#828#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/LessonThreeHomeWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="107" column="31" lean-forward="true" selection-start-line="107" selection-start-column="31" selection-end-line="107" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
