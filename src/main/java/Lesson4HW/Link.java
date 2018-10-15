@@ -14,5 +14,10 @@ class Link{
     public void display(){
         System.out.println("Name: "+this.name+", age: "+this.age);
     }
+
+    @Override
+    public String toString() {
+        return "Name: "+this.name+", age: "+this.age;
+    }
 }
 
