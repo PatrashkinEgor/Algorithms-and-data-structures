@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d684af0-03df-4911-9638-c60edf5f3531" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4HW/Link.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4HW/LinkInterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4HW/LinkIteratorApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson4HW/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson4HW/Link.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson4HW/Link.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson4HW/LinkInterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson4HW/LinkInterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson4HW/LinkIteratorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson4HW/LinkIteratorApp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +19,11 @@
       <file leaf-file-name="LessonThreeHomeWork.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/LessonThreeHomeWork.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="205" column="26" lean-forward="true" selection-start-line="205" selection-start-column="26" selection-end-line="205" selection-end-column="26" />
+            <state relative-caret-position="170">
+              <caret line="121" column="20" selection-start-line="121" selection-start-column="20" selection-end-line="121" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -30,8 +31,8 @@
       <file leaf-file-name="Link.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson4HW/Link.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="102">
+              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
               <folding>
                 <element signature="e#221#222#0" expanded="true" />
                 <element signature="e#294#295#0" expanded="true" />
@@ -43,8 +44,8 @@
       <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson4HW/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="187">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="28" />
               <folding>
                 <element signature="e#146#147#0" expanded="true" />
                 <element signature="e#174#175#0" expanded="true" />
@@ -59,11 +60,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkInterator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="46" selection-start-line="46" selection-end-line="49" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkInterator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson4HW/LinkInterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="74" selection-start-line="74" selection-end-line="74" />
+            <state relative-caret-position="204">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="e#340#341#0" expanded="true" />
                 <element signature="e#385#386#0" expanded="true" />
@@ -74,11 +84,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkIteratorApp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LinkIteratorApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson4HW/LinkIteratorApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,8 +114,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Lesson3HW/Stack.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson3HW/StringStack.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson3HW/LessonThreeHomeWork.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Lesson4HW/Link.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson4HW/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson4HW/Link.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson4HW/LinkInterator.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson4HW/LinkIteratorApp.java" />
       </list>
@@ -144,6 +157,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-and-data-structures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson3HW" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-and-data-structures" type="b2602c69:ProjectViewProjectNode" />
@@ -287,7 +308,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990461" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -302,7 +323,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -322,15 +343,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/LessonThreeHomeWork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="205" column="26" lean-forward="true" selection-start-line="205" selection-start-column="26" selection-end-line="205" selection-end-column="26" />
+        <state relative-caret-position="170">
+          <caret line="121" column="20" selection-start-line="121" selection-start-column="20" selection-end-line="121" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson4HW/Link.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="102">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding>
             <element signature="e#221#222#0" expanded="true" />
             <element signature="e#294#295#0" expanded="true" />
@@ -338,10 +362,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="46" selection-start-line="46" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson4HW/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="187">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="28" />
           <folding>
             <element signature="e#146#147#0" expanded="true" />
             <element signature="e#174#175#0" expanded="true" />
@@ -355,22 +386,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson4HW/LinkIteratorApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson4HW/LinkInterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        <state relative-caret-position="204">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="e#340#341#0" expanded="true" />
             <element signature="e#385#386#0" expanded="true" />
             <element signature="e#511#512#0" expanded="true" />
             <element signature="e#541#542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson4HW/LinkIteratorApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

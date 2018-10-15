@@ -7,6 +7,8 @@ class LinkInterator{
 
     public LinkInterator(LinkedList list){
         this.list = list;
+        current = null;
+        previous = null;
         this.reset();
     }
 
