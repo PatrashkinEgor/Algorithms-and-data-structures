@@ -1,6 +1,6 @@
 package Lesson3HW;
 
-class Stack{
+public class Stack{
     private int maxSize;
     private int[] stack;
     private int top;

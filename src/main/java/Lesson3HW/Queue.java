@@ -1,6 +1,6 @@
 package Lesson3HW;
 
-class Queue{
+public class Queue{
     private int maxSize;
     private int[] queue;
     private int front;
@@ -19,6 +19,12 @@ class Queue{
             rear = -1;
         queue[++rear] = i;
         items++;
+    }
+
+    public void reset(){
+        front = 0;
+        rear = -1;
+        items = 0;
     }
 
     public int remove(){
