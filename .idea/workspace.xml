@@ -8,6 +8,7 @@
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,11 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="LessonThreeHomeWork.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/LessonThreeHomeWork.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="17" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,89 +58,68 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson5HW/Power.java">
+      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson5HW/BackpackProblem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="6" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6HW/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding>
-                <element signature="e#316#317#0" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
-                <element signature="e#604#605#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#547#548#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#725#726#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6HW/Node.java">
+      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+            <state relative-caret-position="364">
+              <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vertex.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson7HW/Vertex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Graph.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson7HW/Graph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
               <folding>
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#224#225#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#2994#2995#0" expanded="true" />
+                <element signature="e#3048#3049#0" expanded="true" />
+                <element signature="e#3208#3209#0" expanded="true" />
+                <element signature="e#3268#3269#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6HW/Tree.java">
+      <file leaf-file-name="LessonSevenHomeWork.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson7HW/LessonSevenHomeWork.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6HW/LessonSixHomeWork.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="102" lean-forward="true" selection-start-line="13" selection-start-column="102" selection-end-line="13" selection-end-column="102" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson2HW/LessonTwoHomeWork.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6HW/Num.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="349">
+              <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -160,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Lesson3HW/Stack.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson3HW/StringStack.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson4HW/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson4HW/Link.java" />
@@ -177,6 +156,12 @@
         <option value="$PROJECT_DIR$/src/main/java/Lesson6HW/Number.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson6HW/Tree.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lesson6HW/LessonSixHomeWork.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson7HW/Stack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson3HW/Stack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson7HW/Vertex.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson3HW/Queue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson7HW/Graph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson7HW/LessonSevenHomeWork.java" />
       </list>
     </option>
   </component>
@@ -192,6 +177,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,15 +211,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson2HW" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-and-data-structures2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-and-data-structures2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson5HW" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson3HW" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-and-data-structures2" type="b2602c69:ProjectViewProjectNode" />
@@ -241,12 +221,18 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Lesson6HW" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithms-and-data-structures2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-and-data-structures2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson7HW" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,7 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LessonSixHomeWork">
+  <component name="RunManager" selected="Application.LessonSevenHomeWork">
     <configuration name="BackpackProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson5HW.BackpackProblem" />
       <module name="Algorithms-and-data-structures" />
@@ -277,9 +263,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    </configuration>
+    <configuration name="LessonSevenHomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7HW.LessonSevenHomeWork" />
+      <module name="Algorithms-and-data-structures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson7HW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="LessonSixHomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson6HW.LessonSixHomeWork" />
@@ -291,23 +285,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LessonThreeHomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3HW.LessonThreeHomeWork" />
-      <module name="Algorithms-and-data-structures" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson3HW.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="LinkIteratorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson4HW.LinkIteratorApp" />
@@ -319,9 +296,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson5HW.Power" />
@@ -333,44 +307,71 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LessonThreeHomeWork" />
       <item itemvalue="Application.LinkIteratorApp" />
       <item itemvalue="Application.Power" />
       <item itemvalue="Application.BackpackProblem" />
       <item itemvalue="Application.LessonSixHomeWork" />
+      <item itemvalue="Application.LessonSevenHomeWork" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LessonSevenHomeWork" />
         <item itemvalue="Application.LessonSixHomeWork" />
         <item itemvalue="Application.BackpackProblem" />
         <item itemvalue="Application.Power" />
         <item itemvalue="Application.LinkIteratorApp" />
-        <item itemvalue="Application.LessonThreeHomeWork" />
       </list>
     </recent_temporary>
   </component>
@@ -391,32 +392,32 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.2521322" />
-      <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" visible="true" weight="0.2521322" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3275488" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3275488" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32731137" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.329718" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32731137" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973545" visible="true" weight="0.25208333" />
+      <window_info id="Structure" order="1" sideWeight="0.5026455" side_tool="true" visible="true" weight="0.25208333" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39744952" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -424,40 +425,14 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Lesson5HW/BackpackProblem.java</url>
-          <line>38</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/CharStack.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/Stack.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/LessonThreeHomeWork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson4HW/Link.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="46" selection-start-line="46" selection-end-line="49" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson4HW/LinkedList.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson4HW/LinkInterator.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson4HW/LinkIteratorApp.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson5HW/WorkWithConsole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -478,28 +453,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6HW/Stack.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson2HW/LessonTwoHomeWork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="408">
+          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/CharStack.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson4HW/Link.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson4HW/LinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson4HW/LinkInterator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson4HW/LinkIteratorApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson5HW/WorkWithConsole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson5HW/BackpackProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6HW/Stack.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson2HW/LessonTwoHomeWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6HW/Tree.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6HW/LessonSixHomeWork.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson5HW/Power.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson7HW/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/LessonThreeHomeWork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="3" />
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="17" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -509,39 +537,49 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6HW/Num.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson2HW/LessonTwoHomeWork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="35" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6HW/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson7HW/Vertex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson3HW/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson7HW/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
           <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#2994#2995#0" expanded="true" />
+            <element signature="e#3048#3049#0" expanded="true" />
+            <element signature="e#3208#3209#0" expanded="true" />
+            <element signature="e#3268#3269#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6HW/Tree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson7HW/LessonSevenHomeWork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6HW/LessonSixHomeWork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="102" lean-forward="true" selection-start-line="13" selection-start-column="102" selection-end-line="13" selection-end-column="102" />
+        <state relative-caret-position="349">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
         </state>
       </provider>
     </entry>
